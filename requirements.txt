@@ -2,3 +2,4 @@ streamlit
 pymongo
 matplotlib
 pandas
+python-dotenv
